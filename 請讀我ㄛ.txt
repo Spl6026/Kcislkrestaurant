@@ -14,11 +14,11 @@
 3.選取更多工具->擴充功能
 4.進入頁面後點選“載入未封裝項目”，選取“crontabs”資料夾
 5.點選完畢後，關閉頁面，在右上會發現新的擴充功能，對“crontabs”點右鍵，選擇“選項”
-6-1.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/”於Tab URL，Open at下午5:59，Days of the week選Saturday，按右邊的Save tabs
-6-2.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?1”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs
-6-3.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?2”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs
-6-4.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?3”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs
-6-5.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?4”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs
+6-1.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/”於Tab URL，Open at下午5:59，Days of the week選Saturday，按右邊的Save tabs，再按Add tab
+6-2.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?1”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs，再按Add tab
+6-3.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?2”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs，再按Add tab
+6-4.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?3”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs，再按Add tab
+6-5.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?4”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs，再按Add tab
 6-6.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?5”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs
 7.進入“https://www.tampermonkey.net/”，選擇“Tampermonkey Stable”並下載，加到Chrome
 7.關閉頁面，在右上會發現新的擴充功能，對“Tampermonkey”點左鍵，選擇“控制台(Dashboard)”，進入頁面後，點取右上的匯入匯出工具，在zip檔那欄點選匯入：“選擇檔案”，選取“restaurant.zip”，點擊匯入
