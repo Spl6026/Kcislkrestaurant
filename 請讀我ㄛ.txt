@@ -21,5 +21,6 @@
 6-5.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?4”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs，再按Add tab
 6-6.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?5”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs
 7.進入“https://www.tampermonkey.net/”，選擇“Tampermonkey Stable”並下載，加到Chrome
-7.關閉頁面，在右上會發現新的擴充功能，對“Tampermonkey”點左鍵，選擇“控制台(Dashboard)”，進入頁面後，點取右上的匯入匯出工具，在zip檔那欄點選匯入：“選擇檔案”，選取“restaurant.zip”，點擊匯入
-8.自此，完成設定，等星期六看是否成功，成功就恭喜你啦，失敗就自己手動選餐囉。
+8.關閉頁面，在右上會發現新的擴充功能，對“Tampermonkey”點左鍵，選擇“控制台(Dashboard)”，進入頁面後，點取右上的匯入匯出工具，在zip檔那欄點選匯入：“選擇檔案”，選取“restaurant.zip”，點擊匯入
+9.選擇“已安裝的使用者腳本”，點擊“restaurant login”，修改“學號”與“身分證”為自己的學號與身分證
+10.自此，完成設定，等星期六看是否成功，成功就恭喜你啦，失敗就自己手動選餐囉。
