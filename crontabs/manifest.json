@@ -1,0 +1,26 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/crontabs_19.png",
+         "38": "images/crontabs_38.png"
+      },
+      "default_title": "__MSG_actionButtonDisableTitle__"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "icons": {
+      "128": "images/crontabs_128.png",
+      "16": "images/crontabs_16.png",
+      "48": "images/crontabs_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+r0tFc4VqCPqVb54U3QB2JXZIJl6QeFsa1Hf1xCkBem+q/Y4TzIvy4E9AodesMgswGBQk/p8eskxrqh/isGIvlUQqypaNdv0ogNed3IsYBxDCBfZPmRIj5eZnBxlFZrRF0DrsoLCIdec8uF9gDKSAogQKGqZLUrUSToATMqchEwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "options_page": "index.html",
+   "permissions": [ "tabs", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0"
+}

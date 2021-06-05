@@ -1,0 +1,175 @@
+{
+   "actionButtonBadgeDisabledText": {
+      "description": "The text of the badge hovering over the enable/disable button when its enabled",
+      "message": "off"
+   },
+   "actionButtonBadgeEnabledText": {
+      "description": "The text of the badge hovering over the enable/disable button when its disabled",
+      "message": "on"
+   },
+   "actionButtonDisableTitle": {
+      "description": "The title of the enable/disable button when enabled",
+      "message": "Disable Crontabs"
+   },
+   "actionButtonEnableTitle": {
+      "description": "The title of the enable/disable button when disabled",
+      "message": "Enable Crontabs"
+   },
+   "addTab": {
+      "description": "The add tab button label.",
+      "message": "Add tab"
+   },
+   "advancedTabDescription": {
+      "description": "A description of the advanced interface.",
+      "message": "Create and edit cron- or text expression-based tab schedules at the lowest possible level to satisfy your inner geek. All cron expressions require a value for seconds."
+   },
+   "advancedTabHeader": {
+      "description": "The advanced tab header",
+      "message": "Advanced"
+   },
+   "cronExpressionInvalid": {
+      "message": "Cron Expression invalid."
+   },
+   "cronOperationInvalid": {
+      "message": "Cron Operation invalid."
+   },
+   "crontabsDisabled": {
+      "description": "The text displayed in options page when crontabs is disabled",
+      "message": "Crontabs is off"
+   },
+   "crontabsEnabled": {
+      "description": "The text displayed in options page when crontabs is enabled",
+      "message": "Crontabs is on"
+   },
+   "dayFriday": {
+      "description": "Friday",
+      "message": "Friday"
+   },
+   "dayMonday": {
+      "description": "Monday",
+      "message": "Monday"
+   },
+   "daySaturday": {
+      "description": "Saturday",
+      "message": "Saturday"
+   },
+   "daySunday": {
+      "description": "Sunday",
+      "message": "Sunday"
+   },
+   "dayThursday": {
+      "description": "Thursday",
+      "message": "Thursday"
+   },
+   "dayTuesday": {
+      "description": "Tuesday",
+      "message": "Tuesday"
+   },
+   "dayWednesday": {
+      "description": "Wednesday",
+      "message": "Wednesday"
+   },
+   "expressionAction": {
+      "description": "The label for the expression's action field",
+      "message": "Action"
+   },
+   "expressionTypecron": {
+      "description": "The name of a Cron Schedule",
+      "message": "Cron Expression"
+   },
+   "expressionTypetext": {
+      "description": "The name of a Text Expresson Schedule",
+      "message": "Text Expression"
+   },
+   "extDesc": {
+      "description": "The description of the extension",
+      "message": "Manage Chrome Tabs with Cron expressions."
+   },
+   "extName": {
+      "description": "Name of the extension",
+      "message": "Crontabs"
+   },
+   "operationCronAdd": {
+      "description": "The label of the add cron operation button",
+      "message": "Add cron operation"
+   },
+   "operationTextAdd": {
+      "description": "The label of the add text expression operation button",
+      "message": "Add text operation"
+   },
+   "removeOperation": {
+      "description": "The label for the remove operation button",
+      "message": "Remove operation"
+   },
+   "removeTab": {
+      "description": "The remove tab button label.",
+      "message": "Remove tab"
+   },
+   "save": {
+      "description": "The save button label.",
+      "message": "Save tabs"
+   },
+   "tabActionClose": {
+      "description": "The tab action which closes a tab.",
+      "message": "Close"
+   },
+   "tabActionOpen": {
+      "description": "The tab action which opens a tab in the background.",
+      "message": "Open in background"
+   },
+   "tabActionReload": {
+      "description": "The tab action which reloads a tab.",
+      "message": "Reload"
+   },
+   "tabActionShow": {
+      "description": "The tab action which shows a tab",
+      "message": "Show"
+   },
+   "tabActionShowAndReload": {
+      "description": "The tab action which shows and reloads a tab.",
+      "message": "Show and reload"
+   },
+   "tabUrl": {
+      "description": "The label for the tab URL field.",
+      "message": "Tab URL"
+   },
+   "tabUrlInvalid": {
+      "message": "Tab URL invalid."
+   },
+   "timeManagementDaysOfWeek": {
+      "description": "The label for the time management 'days of the week' field",
+      "message": "Days of the week"
+   },
+   "timeManagementDescription": {
+      "description": "A description of the time management interface.",
+      "message": "Increase your productivity by automating tabs to open and close throughout the week to streamline daily tasks."
+   },
+   "timeManagementHeader": {
+      "description": "The time mangement header",
+      "message": "Time management"
+   },
+   "timeManagementTabCloseAt": {
+      "description": "The label for the time management 'close at' field",
+      "message": "Close at"
+   },
+   "timeManagementTabCloseAtTitle": {
+      "description": "The title shown when an erroneous 'close at' entry is displayed",
+      "message": "The time to close the tab"
+   },
+   "timeManagementTabDaysTitle": {
+      "description": "The title shown when no days are chosen",
+      "message": "Choose a day"
+   },
+   "timeManagementTabOpenAt": {
+      "description": "The label for the time management 'open at' field",
+      "message": "Open at"
+   },
+   "timeManagementTabOpenAtTitle": {
+      "description": "The title shown when an erroneous 'open at' entry is displayed",
+      "message": "The time to open the tab"
+   },
+   "validTabUrl": {
+      "description": "The label shown when an invalid tab URL is entered.",
+      "message": "Valid tab URL"
+   }
+}
