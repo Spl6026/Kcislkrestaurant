@@ -1,2 +1,24 @@
-# Kcislkrestaurant
-choose food
+各位林口康橋的學弟妹，這是身為學長的我留下的秘寶，請各位善用
+以下幾點須知：
+1.請先下載GoogleChrome，不然無法運行，此程式建立在GoogleChrome的擴充功能之下
+2.要讓此程式運行，請在「星期六晚上5點59分前確保電腦及GoogleChrome開啟」
+3.預設狀況下，此程式只會選5號餐，若不滿意，請於網頁跑完後停用tampermonkey再行更換，或使用手機更換
+4.如無法運行，也沒有人幫的了你，只能說你運氣不好或操作失誤
+5.如果你成功了，恭喜你，你可以度過滿滿牛肉麵與5號餐的康橋生活
+6.不放心可以不要用，沒人強迫你，有問題我不負責
+
+若需影片，請進入此連結：
+以下為文字教程：
+1.下載檔案
+2.點開GoogleChrome，點擊右上由三個點點組成的按鈕
+3.選取更多工具->擴充功能
+4.進入頁面後點選“載入未封裝項目”，選取“crontabs”資料夾，再點選“載入未封裝項目”一次，選取“tampermonkey”資料夾
+5.點選完畢後，關閉頁面，在右上會發現兩個新擴充功能，對“crontabs”點右鍵，選擇“選項”
+6-1.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/”於Tab URL，Open at下午5:59，Days of the week選Saturday，按右邊的Save tabs
+6-2.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?1”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs
+6-3.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?2”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs
+6-4.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?3”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs
+6-5.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?4”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs
+6-6.複製貼上“http://grestaurant.kcislk.ntpc.edu.tw/CheckOrder.aspx?5”於Tab URL，Open at下午6:00，Days of the week選Saturday，按右邊的Save tabs
+7.退出頁面，對“crontabs”點左鍵，選擇“控制台(Dashboard)”，進入頁面後，點取右上的匯入匯出工具，在zip檔那欄點選匯入：“選擇檔案”，選取“restaurant.zip”，點擊匯入
+8.自此，完成設定，等星期六看是否成功，成功就恭喜你啦，失敗就自己手動囉。
